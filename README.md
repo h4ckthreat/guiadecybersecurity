@@ -10,9 +10,9 @@
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/h4ckthreat)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jadsonlsouza/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
